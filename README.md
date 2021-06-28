@@ -98,7 +98,7 @@
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/woocommerce_congiguration_live.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/woocommerce_configuration_live.png)
 
 
 ### Support
