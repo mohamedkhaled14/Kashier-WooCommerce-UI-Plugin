@@ -1,5 +1,3 @@
-
-
 ### Wordpress Woocommerce  - Kashier plugin
 
  * Version: 2.0.0
