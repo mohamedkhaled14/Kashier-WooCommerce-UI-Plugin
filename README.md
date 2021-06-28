@@ -1,2 +1,112 @@
-# Kashier-WooCommerce-UI-Plugin
-Kashier WooCommerce Plugin
+
+
+### Wordpress Woocommerce  - Kashier plugin
+
+ * Version: 2.0.0
+ * Requires at least: 4.4
+ * Tested up to: 5.4.1
+ * WC requires at least: 2.6
+ * WC tested up to: 3.6.4
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/kashier-logo.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/woocommercew-logo.png)
+
+### Features
+
+- Fully PCI DSS compliant as a Level 1 Service for merchant operating in Egypt.
+
+- I-frame integration.
+
+- 3D secure cards authentication support.
+
+- Support multiple payment method.
+
+      1. Card Payments
+      2. Wallet Payments 
+      3. Bank Installments Payment    
+
+- Support acquiring multiple currencies "EGP, USD, GBP, EUR".
+
+- Plug and play.
+
+
+### Installation
+
+- Download kashier.zip https://github.com/Kashier-payments/Kashier-WooCommerce-Plugin/archive/refs/heads/master.zip
+
+- Upload and activate the plugin on Woocommerce.
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-1-installPlugin.png)
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-2-activate.png)
+
+### Obtain Test Credentials
+
+- Login or Sign up on kashier.io https://merchant.kashier.io/
+
+- Navigate to Integrate now section > payment api keys.
+
+- Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
+
+- Copy Merchant ID visible under your user name "MID-xx-xx".
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-3-obtaintestapikeys.png)
+
+- Navigate to Woocommerce > settings > payments
+
+![]()
+
+- there are three payment methods added to Woocommerce > settings > payments section
+
+- choose payment methods which you would like to use to accept payment via kashier.
+
+- Insert the MID and Test Api Key in the Configuration page of each payment method.
+
+- Make sure the enable checkbox is checked.
+
+- Make sure the test mode is on.
+
+- Customize the title and description that will show up tp your users.
+
+- Save configuration.
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-4-settings.png)
+
+
+### Test plugin 
+
+- Proceed to make an order on your shop, a new payment method is added . it could be changed from module configuration.
+
+- After proceeding you will find a Kashier Payment methods that you added it. choose one of them and proceed to make a payment.
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-5-pay.png)
+
+
+### Go live
+
+- After activating your account.
+
+- Make sure you are on live mode.
+
+- Navigate to Integrate now section > payment api keys.
+
+- Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-6-Live-api-keys.png)
+
+- Insert Live Api Key in the Configuration page of each module.
+
+- Remove the test mode check.
+
+- Save configuration.
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-7-live-kashier-n.png)
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-manage-methods.png)
+
+
+### Support
+
+- Leave us an inquiry ticket on https://kashier.io for questions.
+
+
