@@ -6,8 +6,8 @@
  * WC requires at least: 2.6
  * WC tested up to: 3.6.4
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/kashier-logo.png)
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/woocommercew-logo.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/kashier-logo.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/woocommercew-logo.png)
 
 ### Features
 
@@ -34,9 +34,9 @@
 
 - Upload and activate the plugin on Woocommerce.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-1-installPlugin.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/kashier_upload.png)
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-2-activate.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/kashier_activate.png)
 
 ### Obtain Test Credentials
 
@@ -48,11 +48,11 @@
 
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-3-obtaintestapikeys.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/apikeytest.png)
 
 - Navigate to Woocommerce > settings > payments
 
-![]()
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/woocommerce_payment_methods.png)
 
 - there are three payment methods added to Woocommerce > settings > payments section
 
@@ -68,7 +68,7 @@
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-4-settings.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/woocommerce_configurtion_payment.png)
 
 
 ### Test plugin 
@@ -77,7 +77,7 @@
 
 - After proceeding you will find a Kashier Payment methods that you added it. choose one of them and proceed to make a payment.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-5-pay.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/checkout_methods.png)
 
 
 ### Go live
@@ -100,7 +100,7 @@
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-7-live-kashier-n.png)
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-manage-methods.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/apikeylive.png)
 
 
 ### Support
