@@ -90,7 +90,7 @@
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-6-Live-api-keys.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/apikeylive.png)
 
 - Insert Live Api Key in the Configuration page of each module.
 
@@ -98,9 +98,7 @@
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-Plugin/master/steps/install-7-live-kashier-n.png)
-
-![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/apikeylive.png)
+![](https://raw.githubusercontent.com/mohamedkhaled14/Kashier-WooCommerce-UI-Plugin/main/images/woocommerce_congiguration_live.png)
 
 
 ### Support
